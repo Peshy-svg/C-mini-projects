@@ -1,1 +1,1 @@
-# C-mini-projects
+A space.c program that helps keep track of weight target by; Asking what their earth weight is. Asking them to enter a number for the plaet they want to fight on. It should then compute their weight on the destination planet
